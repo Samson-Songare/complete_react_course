@@ -1,0 +1,13 @@
+.myHeader{
+    color: red;
+    font-size: 35px;
+}
+
+.myPara{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 16px;
+}
+
+.badge-margin-left-240{
+    margin-left: 240px;
+}
